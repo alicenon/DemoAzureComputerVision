@@ -18,3 +18,5 @@
 Para ver el código completo y ejemplos de uso, consulta el archivo 
 [DemoAzureComputerVision.ipynb](https://github.com/alicenon/DemoAzureComputerVision/blob/main/DemoAzureComputerVision.ipynb)
 
+Diagrama elaborado con [draw.io](https://app.diagrams.net/)
+
